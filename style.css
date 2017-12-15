@@ -1,0 +1,11 @@
+        .module-tcg {
+            width: 300px;
+            text-align: center;
+            background: #fafafa;
+            position: relative;
+            overflow: hidden;
+        }
+
+        #tcg-result {
+            resize: vertical
+        }
