@@ -1,2 +1,0 @@
-# TCG
-Taiyo TCG module
